@@ -3,7 +3,7 @@ pagman77/pagman77 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# FULLSTACK SOFTWARE ENGINEER
+# SOFTWARE ENGINEER
 ## Javascript | Typescript | Python | Flask | React | Next.js | Node.js| Express.js
 ### AmazonS3 | Heroku | SQLAlchemy | PostgreSQL | Bootstrap5 | JQuery | Git
 
